@@ -1,0 +1,3 @@
+# Mygrit
+
+learn git cmd
